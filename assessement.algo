@@ -1,0 +1,53 @@
+Problem 1
+ 
+Given two sets of elements, find the sum of all distinct elements from the set. In other words, find the sum of all elements which are present in either of the given set.
+Example:
+Set 1 : [3, 1, 7, 9], Set 2: [2, 4, 1, 9, 3]
+Output: 13 (distinct elements 4, 7, 2 )
+Give a solutions to this problem, using arrays
+
+
+
+ALGORITHM sum of Set
+VAR
+    ARRAY : ARRAY Of Number
+    sum : INTERGER
+    
+BEGIN
+     // Find the sum of all element that  are present in either of the given set.
+    Write("Give the number");
+
+
+    ALGORITHM AddTwoSum
+VAR
+    set1,set2 := INTEGER
+    sum := INTEGER := 0
+BEGIN
+    READ set1 :=nb
+    READ set2 :=nb
+    sum = num1 + num2
+
+    FOR //sum of number present in either of  the given set.
+    READ (i)
+    READ from set1(i) and set2(i)
+    SUM  INTERGER
+
+    IF (we check sum of set1 and set2 and find the sum of element present in them) then
+    write ("both sets have something in common");    
+ELSE-IF (we check sum of set1 and set2 and find nothing in common) then
+    write ("number is not correct verify the given number of sets");    
+ELSE
+    Dispaly
+    Default : "month does not exist"
+    END SWITCH
+    
+   Write ("day ; ", Day);
+   write ("month ; ", month);
+   write ("Year ; ", Year);
+END_IF
+
+    END FOR 
+        IF () then
+        Write("write")
+        ELSE
+           write
